@@ -1,0 +1,2 @@
+# GITpipeline
+.net core project
